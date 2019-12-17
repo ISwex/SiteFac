@@ -21,6 +21,7 @@ a, a:hover {
 }
 .img{
     margin:2%;
+    width:100%;
 }
 .btn-custom{
     background-color:forestgreen;
